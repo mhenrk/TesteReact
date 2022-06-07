@@ -24,4 +24,5 @@ export const Btn = styled.span`
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+    cursor: pointer;
 `
