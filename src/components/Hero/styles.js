@@ -46,6 +46,7 @@ export const SaibaMais = styled.div`
     align-items: center;
     text-transform: uppercase;
     border-radius: 5px;
+    cursor: pointer;
 `
 
 export const Span = styled.span`
@@ -66,4 +67,5 @@ export const BtnText = styled.p`
     font-weight: 500;
     font-size: 24px;
     line-height: 32px;
+    
 `
