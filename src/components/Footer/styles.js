@@ -16,4 +16,8 @@ export const List = styled.li`
     align-items: center;
     list-style: none;
     padding-bottom: 16px;
+
+    img{
+        padding-right: 5px;
+    }
 `

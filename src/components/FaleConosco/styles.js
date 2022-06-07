@@ -51,4 +51,5 @@ export const Button = styled.span`
     
     color: ${cor.white};
     text-transform: uppercase;
+    cursor: pointer;
 `

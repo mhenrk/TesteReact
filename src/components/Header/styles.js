@@ -25,6 +25,11 @@ export const FlexItem = styled.div`
     justify-content: space-around;
     padding-left: 15px;
     color: ${cor.white};
+    cursor: pointer;
+    
+    img {
+        padding: 0 5px;
+    }
 `
 
 
