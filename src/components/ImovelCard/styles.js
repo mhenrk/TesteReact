@@ -48,6 +48,7 @@ export const Btn = styled.span`
     font-size: 14px;
     font-weight: 500;
     line-height: 24px;
+    cursor: pointer;
 `
 
 export const Titulo = styled.span`
@@ -67,5 +68,9 @@ export const Subtitulo = styled.span`
     align-items: center;
     color: ${cor.black};
     padding: 5px 0;
+
+    img{
+        padding-right: 5px;
+    }
 `
 
