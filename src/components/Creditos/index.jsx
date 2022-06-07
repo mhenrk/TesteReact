@@ -5,7 +5,7 @@ export default function Creditos(){
         <Container>
             <TextContainer>
                 <pFlex>© 2022 - Franco Imobiliária. Todos os Direitos Reservados.</pFlex>
-                <pFlex>Desenvolvido pFlexor <strong>Move Digital</strong></pFlex>
+                <pFlex>Desenvolvido por <strong>Move Digital</strong></pFlex>
             </TextContainer>
         </Container>
     )

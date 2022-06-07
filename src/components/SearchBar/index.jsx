@@ -13,47 +13,47 @@ export default function SearchBar() {
     <Container>
       <SelectGroup>
         <Label />
-        Estágio da Obra
+        Cidade
         <Select>
-          <option value="">Marilia</option>
+          <option value="">Todas</option>
+          <option value="">Ubatuba</option>
+          <option value="">Florianopolis</option>
+        </Select>
+      </SelectGroup>
+      <SelectGroup>
+        <Label />
+        Empreendimento
+        <Select>
+          <option value="">Todas</option>
           <option value="">Florianopolis</option>
           <option value="">Acre</option>
         </Select>
       </SelectGroup>
       <SelectGroup>
         <Label />
-        Estágio da Obra
+        Tipo
         <Select>
-          <option value="">Marilia</option>
-          <option value="">Florianopolis</option>
-          <option value="">Acre</option>
+        <option value="">Todas</option>
+          <option value="">Casa</option>
+          <option value="">Apartamento</option>
+        </Select>
+      </SelectGroup>
+      <SelectGroup>
+        <Label />
+        Nº Dormitórios
+        <Select>
+        <option value="">Todas</option>
+          <option value="">1 Dorm</option>
+          <option value="">2 Dorm</option>
         </Select>
       </SelectGroup>
       <SelectGroup>
         <Label />
         Estágio da Obra
         <Select>
-          <option value="">Marilia</option>
-          <option value="">Florianopolis</option>
-          <option value="">Acre</option>
-        </Select>
-      </SelectGroup>
-      <SelectGroup>
-        <Label />
-        Estágio da Obra
-        <Select>
-          <option value="">Marilia</option>
-          <option value="">Florianopolis</option>
-          <option value="">Acre</option>
-        </Select>
-      </SelectGroup>
-      <SelectGroup>
-        <Label />
-        Estágio da Obra
-        <Select>
-          <option value="">Marilia</option>
-          <option value="">Florianopolis</option>
-          <option value="">Acre</option>
+          <option value="">Todas</option>
+          <option value="">Pronto para morar</option>
+          <option value="">Em Obra</option>
         </Select>
       </SelectGroup>
 
