@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "cardImage": "",
+        "cardStatus": "EM OBRAS",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "2",
+        "cardImage": "",
+        "cardStatus": "PRÉ-LANCAMENTO",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "3",
+        "cardImage": "",
+        "cardStatus": "PRONTO PARA MORAR",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "4",
+        "cardImage": "",
+        "cardStatus": "EM OBRAS",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "5",
+        "cardImage": "",
+        "cardStatus": "PRÉ-LANCAMENTO",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "6",
+        "cardImage": "",
+        "cardStatus": "PRONTO PARA MORAR",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "7",
+        "cardImage": "",
+        "cardStatus": "EM OBRAS",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "8",
+        "cardImage": "",
+        "cardStatus": "PRÉ-LANCAMENTO",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    },
+    {
+        "id": "9",
+        "cardImage": "",
+        "cardStatus": "PRONTO PARA MORAR",
+        "cardTitle": "Duomo Residencial",
+        "cardLocation": "Ubatuba, a Praia Grande",
+        "cardInfo": "2 ou 3 (1 a 3 suítes) 92m² ou 201m²"
+    }
+]

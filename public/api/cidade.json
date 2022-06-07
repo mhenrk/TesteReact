@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "nome": "São Paulo"
+    },
+    {
+        "id": "2",
+        "nome": "Rio de Janeiro"
+    },
+    {
+        "id": "3",
+        "nome": "Ubatuba"
+    },
+    {
+        "id": "4",
+        "nome": "Buzios"
+    },
+    {
+        "id": "5",
+        "nome": "Belo Horizonte"
+    },
+    {
+        "id": "6",
+        "nome": "Pereque-Mirim"
+    },
+    {
+        "id": "7",
+        "nome": "Parati"
+    }
+]
