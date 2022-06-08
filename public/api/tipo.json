@@ -1,10 +1,12 @@
-[
-    {
-        "id": "1",
-        "nome": "Casa"
-    },
-    {
-        "id": "2",
-        "nome": "Apartamento"
-    }
-]
+{
+    "tipo": [
+        {
+            "id": "1",
+            "nome": "Casa"
+        },
+        {
+            "id": "2",
+            "nome": "Apartamento"
+        }
+    ]
+}

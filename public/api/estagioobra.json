@@ -1,14 +1,16 @@
-[
-    {
-        "id": "1",
-        "nome": "Em Obra"
-    },
-    {
-        "id": "2",
-        "nome": "Pré-Lancamento"
-    },
-    {
-        "id": "3",
-        "nome": "Pronto para morar"
-    }
-]
+{
+    "estagioobra": [
+        {
+            "id": "1",
+            "nome": "Em Obra"
+        },
+        {
+            "id": "2",
+            "nome": "Pré-Lancamento"
+        },
+        {
+            "id": "3",
+            "nome": "Pronto para morar"
+        }
+    ]
+}

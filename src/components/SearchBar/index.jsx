@@ -6,14 +6,14 @@ import {
   MenuContainer,
   BtnGroup,
 } from "./styles";
-import searcheader from '../../assets/img/header/searcheader.png'
 
-export default function SearchBar() {
+import searcheader from "../../assets/img/header/searcheader.png";
+
+const SearchBar = () => {
   return (
     <Container>
       <SelectGroup>
-        <Label />
-        Cidade
+        <Label />Cidade
         <Select>
           <option value="">Todas</option>
           <option value="">Ubatuba</option>
@@ -33,7 +33,7 @@ export default function SearchBar() {
         <Label />
         Tipo
         <Select>
-        <option value="">Todas</option>
+          <option value="">Todas</option>
           <option value="">Casa</option>
           <option value="">Apartamento</option>
         </Select>
@@ -42,7 +42,7 @@ export default function SearchBar() {
         <Label />
         Nº Dormitórios
         <Select>
-        <option value="">Todas</option>
+          <option value="">Todas</option>
           <option value="">1 Dorm</option>
           <option value="">2 Dorm</option>
         </Select>
@@ -68,4 +68,6 @@ export default function SearchBar() {
       </MenuContainer>
     </Container>
   );
-}
+};
+
+export default SearchBar;

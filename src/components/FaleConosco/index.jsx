@@ -16,7 +16,7 @@ export default function FaleConosco(){
                 </Contato>
             </Informativo>
 
-            <img class="consultor" src={consultor} alt="consultor" />
+            <img src={consultor} alt="consultor" />
         </Container>
                 
     )

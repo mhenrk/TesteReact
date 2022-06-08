@@ -17,7 +17,6 @@ export const Informativo = styled.div`
     padding: 0 20px;
 `
 
-
 export const Titulo = styled.h1`
     font-size: 68px;
     line-height: 72px;
